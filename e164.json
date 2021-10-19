@@ -1,7 +1,7 @@
 [
     {
         "country": "Afghanistan",
-        "prefix": "93",
+        "country_code": "+93",
         "area_code": [
             "70",
             "71",
@@ -10,23 +10,23 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Albania",
-        "prefix": "355",
+        "country_code": "+355",
         "area_code": [
             "66",
             "67",
             "68",
             "69"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "3",
@@ -36,15 +36,15 @@
     },
     {
         "country": "Algeria",
-        "prefix": "213",
+        "country_code": "+213",
         "area_code": [
             "5-6",
             "77",
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "7",
         "digits": {
             "numbers": [
                 "8",
@@ -54,22 +54,22 @@
     },
     {
         "country": "American Samoa",
-        "prefix": "1 (684)",
+        "country_code": "+1 (684)",
         "area_code": [],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Andorra",
-        "prefix": "376",
+        "country_code": "+376",
         "area_code": [
             "3-4"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "6",
@@ -80,22 +80,22 @@
     },
     {
         "country": "Angola",
-        "prefix": "244",
+        "country_code": "+244",
         "area_code": [
             "91",
             "92",
             "93",
             "94"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Anguilla",
-        "prefix": "1 (264)",
+        "country_code": "+1 (264)",
         "area_code": [
             "536",
             "537",
@@ -106,15 +106,15 @@
             "583",
             "584"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Antigua and Barbuda",
-        "prefix": "1 (268)",
+        "country_code": "+1 (268)",
         "area_code": [
             "716",
             "717",
@@ -149,25 +149,25 @@
             "788",
             "789"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Argentina",
-        "prefix": "54",
+        "country_code": "+54",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Armenia",
-        "prefix": "374",
+        "country_code": "+374",
         "area_code": [
             "93",
             "94",
@@ -177,15 +177,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Aruba",
-        "prefix": "297",
+        "country_code": "+297",
         "area_code": [
             "63",
             "64",
@@ -196,15 +196,15 @@
             "997",
             "998"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Australia",
-        "prefix": "61",
+        "country_code": "+61",
         "area_code": [
             "400",
             "401",
@@ -266,8 +266,8 @@
             "48",
             "49"
         ],
-        "prefix_internacional": "0011",
-        "prefix_nacional": "0",
+        "international_prefix": "0011",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -277,17 +277,17 @@
     },
     {
         "country": "Australian Territory",
-        "prefix": "672",
+        "country_code": "+672",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Austria",
-        "prefix": "43",
+        "country_code": "+43",
         "area_code": [
             "67890",
             "67891",
@@ -300,8 +300,8 @@
             "69988",
             "69989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -311,13 +311,13 @@
     },
     {
         "country": "Azerbaijan",
-        "prefix": "994",
+        "country_code": "+994",
         "area_code": [
             "50",
             "51"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -327,7 +327,7 @@
     },
     {
         "country": "Bahamas",
-        "prefix": "1 (242)",
+        "country_code": "+1 (242)",
         "area_code": [
             "421",
             "422",
@@ -379,15 +379,15 @@
             "558",
             "559"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Bahrain",
-        "prefix": "973",
+        "country_code": "+973",
         "area_code": [
             "322",
             "323",
@@ -403,18 +403,18 @@
             "383",
             "384"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Bangladesh",
-        "prefix": "880",
+        "country_code": "+880",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -424,7 +424,7 @@
     },
     {
         "country": "Barbados",
-        "prefix": "1 (246)",
+        "country_code": "+1 (246)",
         "area_code": [
             "240",
             "241",
@@ -455,18 +455,18 @@
             "84",
             "85"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Belarus",
-        "prefix": "375",
+        "country_code": "+375",
         "area_code": [],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "between": [
                 "9",
@@ -476,7 +476,7 @@
     },
     {
         "country": "Belgium",
-        "prefix": "32",
+        "country_code": "+32",
         "area_code": [
             "4659",
             "4660",
@@ -498,8 +498,8 @@
             "488",
             "489"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -509,7 +509,7 @@
     },
     {
         "country": "Belize",
-        "prefix": "501",
+        "country_code": "+501",
         "area_code": [
             "60",
             "61",
@@ -522,15 +522,15 @@
             "68",
             "69"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Benin",
-        "prefix": "229",
+        "country_code": "+229",
         "area_code": [
             "64",
             "65",
@@ -548,30 +548,30 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Bermuda",
-        "prefix": "1 (441)",
+        "country_code": "+1 (441)",
         "area_code": [
             "3 500, 539, 59, 7"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Bhutan",
-        "prefix": "975",
+        "country_code": "+975",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -581,7 +581,7 @@
     },
     {
         "country": "Bolivia",
-        "prefix": "591",
+        "country_code": "+591",
         "area_code": [
             "60",
             "61",
@@ -599,15 +599,15 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Bosnia/Herzegovina",
-        "prefix": "387",
+        "country_code": "+387",
         "area_code": [
             "6031",
             "6032",
@@ -623,15 +623,15 @@
             "66",
             "67"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Botswana",
-        "prefix": "267",
+        "country_code": "+267",
         "area_code": [
             "71",
             "72",
@@ -669,8 +669,8 @@
             "770",
             "771"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -680,7 +680,7 @@
     },
     {
         "country": "Brazil",
-        "prefix": "55",
+        "country_code": "+55",
         "area_code": [
             "1152",
             "1153",
@@ -958,15 +958,15 @@
             "998",
             "999"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "British Virgin Islands",
-        "prefix": "1 (284)",
+        "country_code": "+1 (284)",
         "area_code": [
             "340",
             "341",
@@ -998,15 +998,15 @@
             "546",
             "547"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Brunei",
-        "prefix": "673",
+        "country_code": "+673",
         "area_code": [
             "227",
             "228",
@@ -1029,15 +1029,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Bulgaria",
-        "prefix": "359",
+        "country_code": "+359",
         "area_code": [
             "87",
             "88",
@@ -1045,8 +1045,8 @@
             "988",
             "989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -1056,7 +1056,7 @@
     },
     {
         "country": "Burkina Faso",
-        "prefix": "226",
+        "country_code": "+226",
         "area_code": [
             "60",
             "61",
@@ -1078,25 +1078,25 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Burundi",
-        "prefix": "257",
+        "country_code": "+257",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Cambodia",
-        "prefix": "855",
+        "country_code": "+855",
         "area_code": [
             "10",
             "11",
@@ -1129,15 +1129,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "001, 007",
-        "prefix_nacional": "0",
+        "international_prefix": "001, 007",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Cameroon",
-        "prefix": "237",
+        "country_code": "+237",
         "area_code": [
             "50",
             "51",
@@ -1146,15 +1146,15 @@
             "55",
             "56"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Cape Verde Islands",
-        "prefix": "238",
+        "country_code": "+238",
         "area_code": [
             "330",
             "331",
@@ -1164,15 +1164,15 @@
             "58",
             "59"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Cayman Islands",
-        "prefix": "1 (345)",
+        "country_code": "+1 (345)",
         "area_code": [
             "321",
             "322",
@@ -1215,25 +1215,25 @@
             "938",
             "939"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Central African Rep",
-        "prefix": "236",
+        "country_code": "+236",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Chad",
-        "prefix": "235",
+        "country_code": "+235",
         "area_code": [
             "222",
             "223",
@@ -1243,8 +1243,8 @@
             "6",
             "7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "6",
@@ -1254,10 +1254,10 @@
     },
     {
         "country": "Chile",
-        "prefix": "56",
+        "country_code": "+56",
         "area_code": [],
-        "prefix_internacional": "1YZ0",
-        "prefix_nacional": "1YZ",
+        "international_prefix": "1YZ0",
+        "national_prefix": "1YZ",
         "digits": {
             "between": [
                 "8",
@@ -1267,7 +1267,7 @@
     },
     {
         "country": "China",
-        "prefix": "86",
+        "country_code": "+86",
         "area_code": [
             "130",
             "131",
@@ -1291,8 +1291,8 @@
             "188",
             "189"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -1302,7 +1302,7 @@
     },
     {
         "country": "Colombia",
-        "prefix": "57",
+        "country_code": "+57",
         "area_code": [
             "300",
             "301",
@@ -1323,8 +1323,8 @@
             "320",
             "321"
         ],
-        "prefix_internacional": "009/007/005",
-        "prefix_nacional": "09/07/2005",
+        "international_prefix": "009/007/005",
+        "national_prefix": "09/07/2005",
         "digits": {
             "numbers": [
                 "8",
@@ -1334,17 +1334,17 @@
     },
     {
         "country": "Comoros",
-        "prefix": "269",
+        "country_code": "+269",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Congo , Democratic Republic of",
-        "prefix": "243",
+        "country_code": "+243",
         "area_code": [
             "80",
             "81",
@@ -1361,8 +1361,8 @@
             "96",
             "97"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -1372,14 +1372,14 @@
     },
     {
         "country": "Congo , Republic of",
-        "prefix": "242",
+        "country_code": "+242",
         "area_code": [
             "04",
             "5",
             "6"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "6",
@@ -1389,7 +1389,7 @@
     },
     {
         "country": "Cook Islands",
-        "prefix": "682",
+        "country_code": "+682",
         "area_code": [
             "50",
             "51",
@@ -1401,27 +1401,27 @@
             "57",
             "58"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "5"
         }
     },
     {
         "country": "Costa Rica",
-        "prefix": "506",
+        "country_code": "+506",
         "area_code": [
             "5-8"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Croatia",
-        "prefix": "385",
+        "country_code": "+385",
         "area_code": [
             "91",
             "92",
@@ -1429,8 +1429,8 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -1440,7 +1440,7 @@
     },
     {
         "country": "Cuba",
-        "prefix": "53",
+        "country_code": "+53",
         "area_code": [
             "52",
             "53",
@@ -1465,8 +1465,8 @@
             "7758",
             "7759"
         ],
-        "prefix_internacional": "119",
-        "prefix_nacional": "0",
+        "international_prefix": "119",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -1476,15 +1476,15 @@
     },
     {
         "country": "Cyprus",
-        "prefix": "357",
+        "country_code": "+357",
         "area_code": [
             "94",
             "95",
             "96",
             "97"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "8",
@@ -1494,7 +1494,7 @@
     },
     {
         "country": "Czech Republic",
-        "prefix": "420",
+        "country_code": "+420",
         "area_code": [
             "601",
             "602",
@@ -1517,8 +1517,8 @@
             "966",
             "967"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "4",
@@ -1528,41 +1528,41 @@
     },
     {
         "country": "Denmark",
-        "prefix": "45",
+        "country_code": "+45",
         "area_code": [
             "2 30-31, 3235, 40-42, 50-53, 60-61, 71, 81, 91-93"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Diego Garcia",
-        "prefix": "246",
+        "country_code": "+246",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Djibouti",
-        "prefix": "253",
+        "country_code": "+253",
         "area_code": [
             "5-8"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Dominica",
-        "prefix": "1 (767)",
+        "country_code": "+1 (767)",
         "area_code": [
             "275",
             "276",
@@ -1580,15 +1580,15 @@
             "616",
             "617"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Dominican Republic",
-        "prefix": "1 (809/829/849)",
+        "country_code": "+1 (809/829/849)",
         "area_code": [
             "201",
             "202",
@@ -2190,13 +2190,13 @@
             "998",
             "999"
         ],
-        "prefix_internacional": null,
-        "prefix_nacional": null,
+        "international_prefix": null,
+        "national_prefix": null,
         "digits": null
     },
     {
         "country": "Ecuador",
-        "prefix": "593",
+        "country_code": "+593",
         "area_code": [
             "94800",
             "94801",
@@ -2307,22 +2307,22 @@
             "9998",
             "9999"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Egypt",
-        "prefix": "20",
+        "country_code": "+20",
         "area_code": [
             "10",
             "11",
             "12"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -2332,7 +2332,7 @@
     },
     {
         "country": "El Salvador",
-        "prefix": "503",
+        "country_code": "+503",
         "area_code": [
             "610",
             "611",
@@ -2431,8 +2431,8 @@
             "798",
             "799"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -2443,32 +2443,32 @@
     },
     {
         "country": "Equatorial Guinea",
-        "prefix": "240",
+        "country_code": "+240",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Eritrea",
-        "prefix": "291",
+        "country_code": "+291",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Estonia",
-        "prefix": "372",
+        "country_code": "+372",
         "area_code": [
             "5 80-82"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -2478,29 +2478,29 @@
     },
     {
         "country": "Ethiopia",
-        "prefix": "251",
+        "country_code": "+251",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Falkland Islands",
-        "prefix": "500",
+        "country_code": "+500",
         "area_code": [
             "5-6"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "5"
         }
     },
     {
         "country": "Faroe Islands",
-        "prefix": "298",
+        "country_code": "+298",
         "area_code": [
             "21",
             "22",
@@ -2521,15 +2521,15 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Fiji",
-        "prefix": "679",
+        "country_code": "+679",
         "area_code": [
             "70",
             "71",
@@ -2554,20 +2554,20 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Finland",
-        "prefix": "358",
+        "country_code": "+358",
         "area_code": [
             "4 50"
         ],
-        "prefix_internacional": "00,99X",
-        "prefix_nacional": "0",
+        "international_prefix": "00,990,994,999",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -2577,29 +2577,29 @@
     },
     {
         "country": "France",
-        "prefix": "33",
+        "country_code": "+33",
         "area_code": [
             "6-7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "French Guiana",
-        "prefix": "594",
+        "country_code": "+594",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Gabon",
-        "prefix": "241",
+        "country_code": "+241",
         "area_code": [
             "02",
             "3",
@@ -2614,8 +2614,8 @@
             "6",
             "7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "6",
@@ -2625,7 +2625,7 @@
     },
     {
         "country": "Gambia",
-        "prefix": "220",
+        "country_code": "+220",
         "area_code": [
             "20",
             "21",
@@ -2639,15 +2639,15 @@
             "8",
             "9"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Georgia",
-        "prefix": "995",
+        "country_code": "+995",
         "area_code": [
             "557",
             "558",
@@ -2660,15 +2660,15 @@
             "598",
             "599"
         ],
-        "prefix_internacional": "8",
-        "prefix_nacional": "8",
+        "international_prefix": "8",
+        "national_prefix": "8",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Germany",
-        "prefix": "49",
+        "country_code": "+49",
         "area_code": [
             "150",
             "151",
@@ -2693,8 +2693,8 @@
             "700",
             "701"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -2704,7 +2704,7 @@
     },
     {
         "country": "Ghana",
-        "prefix": "233",
+        "country_code": "+233",
         "area_code": [
             "23",
             "24",
@@ -2713,8 +2713,8 @@
             "28",
             "29"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -2724,21 +2724,21 @@
     },
     {
         "country": "Gibraltar",
-        "prefix": "350",
+        "country_code": "+350",
         "area_code": [
             "56",
             "57",
             "58"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Greece",
-        "prefix": "30",
+        "country_code": "+30",
         "area_code": [
             "693",
             "694",
@@ -2747,27 +2747,27 @@
             "698",
             "699"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Greenland",
-        "prefix": "299",
+        "country_code": "+299",
         "area_code": [
             "2 4-5"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Grenada",
-        "prefix": "1 (473)",
+        "country_code": "+1 (473)",
         "area_code": [
             "403",
             "404",
@@ -2798,25 +2798,25 @@
             "537",
             "538"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Guadeloupe",
-        "prefix": "590",
+        "country_code": "+590",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Guatemala",
-        "prefix": "502",
+        "country_code": "+502",
         "area_code": [
             "2222",
             "2223",
@@ -2961,15 +2961,15 @@
             "7822",
             "7823"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Guernsey",
-        "prefix": "44",
+        "country_code": "+44",
         "area_code": [
             "7106",
             "7107",
@@ -3498,8 +3498,8 @@
             "79988",
             "79989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -3509,7 +3509,7 @@
     },
     {
         "country": "Guinea",
-        "prefix": "224",
+        "country_code": "+224",
         "area_code": [
             "62",
             "63",
@@ -3518,30 +3518,30 @@
             "67",
             "78"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Guinea-Bissau",
-        "prefix": "245",
+        "country_code": "+245",
         "area_code": [
             "5-7",
             "90",
             "91",
             "92"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Guyana",
-        "prefix": "592",
+        "country_code": "+592",
         "area_code": [
             "600",
             "601",
@@ -3566,15 +3566,15 @@
             "68",
             "69"
         ],
-        "prefix_internacional": "001",
-        "prefix_nacional": null,
+        "international_prefix": "001",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Haiti",
-        "prefix": "509",
+        "country_code": "+509",
         "area_code": [
             "29",
             "30",
@@ -3598,15 +3598,15 @@
             "48",
             "49"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Honduras",
-        "prefix": "504",
+        "country_code": "+504",
         "area_code": [
             "314",
             "315",
@@ -3659,8 +3659,8 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -3670,15 +3670,15 @@
     },
     {
         "country": "Hong Kong",
-        "prefix": "852",
+        "country_code": "+852",
         "area_code": [
             "48",
             "49",
             "53",
             "54"
         ],
-        "prefix_internacional": "001",
-        "prefix_nacional": null,
+        "international_prefix": "001",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "4, 8",
@@ -3688,13 +3688,13 @@
     },
     {
         "country": "Hungary",
-        "prefix": "36",
+        "country_code": "+36",
         "area_code": [
             "30",
             "31"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "6",
+        "international_prefix": "00",
+        "national_prefix": "6",
         "digits": {
             "between": [
                 "8",
@@ -3704,7 +3704,7 @@
     },
     {
         "country": "Iceland",
-        "prefix": "354",
+        "country_code": "+354",
         "area_code": [
             "388",
             "389",
@@ -3753,8 +3753,8 @@
             "88",
             "89"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -3764,7 +3764,7 @@
     },
     {
         "country": "India",
-        "prefix": "91",
+        "country_code": "+91",
         "area_code": [
             "7022",
             "7023",
@@ -4012,8 +4012,8 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -4023,7 +4023,7 @@
     },
     {
         "country": "Indonesia",
-        "prefix": "62",
+        "country_code": "+62",
         "area_code": [
             "811",
             "812",
@@ -4062,8 +4062,8 @@
             "898",
             "899"
         ],
-        "prefix_internacional": "001, 008",
-        "prefix_nacional": "0",
+        "international_prefix": "001, 008",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -4073,10 +4073,10 @@
     },
     {
         "country": "Iran",
-        "prefix": "98",
+        "country_code": "+98",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -4086,10 +4086,10 @@
     },
     {
         "country": "Iraq",
-        "prefix": "964",
+        "country_code": "+964",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -4099,10 +4099,10 @@
     },
     {
         "country": "Ireland",
-        "prefix": "353",
+        "country_code": "+353",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -4112,7 +4112,7 @@
     },
     {
         "country": "Isle of Man",
-        "prefix": "44",
+        "country_code": "+44",
         "area_code": [
             "7106",
             "7107",
@@ -4641,8 +4641,8 @@
             "79988",
             "79989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -4652,7 +4652,7 @@
     },
     {
         "country": "Israel",
-        "prefix": "972",
+        "country_code": "+972",
         "area_code": [
             "50",
             "51",
@@ -4663,8 +4663,8 @@
             "57",
             "58"
         ],
-        "prefix_internacional": "00, 012, 013, 014",
-        "prefix_nacional": "0",
+        "international_prefix": "00, 012, 013, 014",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -4674,7 +4674,7 @@
     },
     {
         "country": "Italy",
-        "prefix": "39",
+        "country_code": "+39",
         "area_code": [
             "319",
             "320",
@@ -4710,8 +4710,8 @@
             "392",
             "393"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "up",
@@ -4721,7 +4721,7 @@
     },
     {
         "country": "Ivory Coast",
-        "prefix": "225",
+        "country_code": "+225",
         "area_code": [
             "01",
             "2",
@@ -4753,15 +4753,15 @@
             "66",
             "67"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Jamaica",
-        "prefix": "1 (876)",
+        "country_code": "+1 (876)",
         "area_code": [
             "24",
             "25",
@@ -4906,18 +4906,18 @@
             "88",
             "89"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Japan",
-        "prefix": "81",
+        "country_code": "+81",
         "area_code": [],
-        "prefix_internacional": "10",
-        "prefix_nacional": "0",
+        "international_prefix": "10",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "9",
@@ -4927,7 +4927,7 @@
     },
     {
         "country": "Jersey",
-        "prefix": "44",
+        "country_code": "+44",
         "area_code": [
             "7106",
             "7107",
@@ -5456,8 +5456,8 @@
             "79988",
             "79989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -5467,14 +5467,14 @@
     },
     {
         "country": "Jordan",
-        "prefix": "962",
+        "country_code": "+962",
         "area_code": [
             "77",
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -5484,7 +5484,7 @@
     },
     {
         "country": "Kazakhstan",
-        "prefix": "7",
+        "country_code": "+7",
         "area_code": [
             "700",
             "701",
@@ -5494,15 +5494,15 @@
             "777",
             "778"
         ],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Kenya",
-        "prefix": "254",
+        "country_code": "+254",
         "area_code": [
             "700",
             "701",
@@ -5536,8 +5536,8 @@
             "788",
             "789"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -5547,22 +5547,22 @@
     },
     {
         "country": "Kiribati",
-        "prefix": "686",
+        "country_code": "+686",
         "area_code": [
             "6-7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "5"
         }
     },
     {
         "country": "Korea",
-        "prefix": "850",
+        "country_code": "+850",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "3",
@@ -5572,10 +5572,10 @@
     },
     {
         "country": "Korea",
-        "prefix": "82",
+        "country_code": "+82",
         "area_code": [],
-        "prefix_internacional": "001, 002",
-        "prefix_nacional": "82",
+        "international_prefix": "001,002,00700",
+        "national_prefix": "0,082",
         "digits": {
             "between": [
                 "8",
@@ -5585,7 +5585,7 @@
     },
     {
         "country": "Kuwait",
-        "prefix": "965",
+        "country_code": "+965",
         "area_code": [
             "500",
             "501",
@@ -5605,8 +5605,8 @@
             "515",
             "516"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -5616,22 +5616,22 @@
     },
     {
         "country": "Kyrgyzstan",
-        "prefix": "996",
+        "country_code": "+996",
         "area_code": [
             "5 70, 77"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Laos",
-        "prefix": "856",
+        "country_code": "+856",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -5641,12 +5641,12 @@
     },
     {
         "country": "Latvia",
-        "prefix": "371",
+        "country_code": "+371",
         "area_code": [
             "2 65153, 65158-65159, 65418, 65779, 68501-68502, 68504, 68509-68510, 68519, 6852, 68535, 6858-6859, 68905, 6891, 78504, 78519, 78521, 78535, 7869-7870, 7880, 78818, 7887, 7891, 78922, 80400, 8060, 810, 9010, 9040, 9060, 9099"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -5656,12 +5656,12 @@
     },
     {
         "country": "Lebanon",
-        "prefix": "961",
+        "country_code": "+961",
         "area_code": [
             "3 70-71, 760-761, 763-769, 788-789, 791, 793"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -5671,24 +5671,24 @@
     },
     {
         "country": "Lesotho",
-        "prefix": "266",
+        "country_code": "+266",
         "area_code": [
             "5-6"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Liberia",
-        "prefix": "231",
+        "country_code": "+231",
         "area_code": [
             "4-7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -5698,7 +5698,7 @@
     },
     {
         "country": "Libya",
-        "prefix": "218",
+        "country_code": "+218",
         "area_code": [
             "91",
             "92",
@@ -5706,8 +5706,8 @@
             "95",
             "96"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -5717,7 +5717,7 @@
     },
     {
         "country": "Liechtenstein",
-        "prefix": "423",
+        "country_code": "+423",
         "area_code": [
             "60",
             "61",
@@ -5730,8 +5730,8 @@
             "68",
             "69"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -5741,22 +5741,22 @@
     },
     {
         "country": "Lithuania",
-        "prefix": "370",
+        "country_code": "+370",
         "area_code": [
             "6 60-63, 640-649, 65, 660, 66105, 6611-6619, 662-663, 6660-6661, 6665, 6667-6670, 66710-66711, 6676-6679, 6686, 66900, 6696-6699, 67, 680-690, 6910, 6913-6919, 692-697, 69742-69743, 69796-69797, 698-699"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "8",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Luxembourg",
-        "prefix": "352",
+        "country_code": "+352",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "4",
@@ -5766,10 +5766,10 @@
     },
     {
         "country": "Macau",
-        "prefix": "853",
+        "country_code": "+853",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -5779,7 +5779,7 @@
     },
     {
         "country": "Macedonia",
-        "prefix": "389",
+        "country_code": "+389",
         "area_code": [
             "70",
             "71",
@@ -5789,22 +5789,22 @@
             "77",
             "78"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Madagascar",
-        "prefix": "261",
+        "country_code": "+261",
         "area_code": [
             "32",
             "33",
             "34"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "9",
@@ -5814,10 +5814,10 @@
     },
     {
         "country": "Malawi",
-        "prefix": "265",
+        "country_code": "+265",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -5827,7 +5827,7 @@
     },
     {
         "country": "Malaysia",
-        "prefix": "60",
+        "country_code": "+60",
         "area_code": [
             "10",
             "11",
@@ -5845,8 +5845,8 @@
             "18",
             "19"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -5856,45 +5856,45 @@
     },
     {
         "country": "Maldives",
-        "prefix": "960",
+        "country_code": "+960",
         "area_code": [
             "7 9"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Mali",
-        "prefix": "223",
+        "country_code": "+223",
         "area_code": [
             "6-7"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Malta",
-        "prefix": "356",
+        "country_code": "+356",
         "area_code": [
             "9811",
             "9812",
             "9813"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Marshall Islands",
-        "prefix": "692",
+        "country_code": "+692",
         "area_code": [
             "2351",
             "2352",
@@ -5904,25 +5904,25 @@
             "6251",
             "6252"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Martinique",
-        "prefix": "596",
+        "country_code": "+596",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Mauritania",
-        "prefix": "222",
+        "country_code": "+222",
         "area_code": [
             "20",
             "21",
@@ -5936,15 +5936,15 @@
             "3",
             "4"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Mauritius",
-        "prefix": "230",
+        "country_code": "+230",
         "area_code": [
             "421",
             "422",
@@ -5990,55 +5990,55 @@
             "86",
             "87"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Mexico",
-        "prefix": "52",
+        "country_code": "+52",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "1",
+        "international_prefix": "00",
+        "national_prefix": "01",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Micronesia",
-        "prefix": "691",
+        "country_code": "+691",
         "area_code": [
             "92",
             "93"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Moldova",
-        "prefix": "373",
+        "country_code": "+373",
         "area_code": [
             "6 76-79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Monaco",
-        "prefix": "377",
+        "country_code": "+377",
         "area_code": [
             "4 6"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "5",
@@ -6048,7 +6048,7 @@
     },
     {
         "country": "Mongolia",
-        "prefix": "976",
+        "country_code": "+976",
         "area_code": [
             "55",
             "56",
@@ -6059,8 +6059,8 @@
             "95",
             "96"
         ],
-        "prefix_internacional": "001",
-        "prefix_nacional": "0",
+        "international_prefix": "001",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -6070,14 +6070,14 @@
     },
     {
         "country": "Montenegro",
-        "prefix": "382",
+        "country_code": "+382",
         "area_code": [
             "67",
             "68",
             "69"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -6087,22 +6087,22 @@
     },
     {
         "country": "Montserrat",
-        "prefix": "1 (664)",
+        "country_code": "+1 (664)",
         "area_code": [
             "492",
             "493",
             "495",
             "496"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Morocco",
-        "prefix": "212",
+        "country_code": "+212",
         "area_code": [
             "600",
             "601",
@@ -6192,18 +6192,18 @@
             "698",
             "699"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Mozambique",
-        "prefix": "258",
+        "country_code": "+258",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "8",
@@ -6213,10 +6213,10 @@
     },
     {
         "country": "Myanmar",
-        "prefix": "95",
+        "country_code": "+95",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -6226,14 +6226,14 @@
     },
     {
         "country": "Namibia",
-        "prefix": "264",
+        "country_code": "+264",
         "area_code": [
             "81",
             "82",
             "83"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -6243,7 +6243,7 @@
     },
     {
         "country": "Nauru",
-        "prefix": "674",
+        "country_code": "+674",
         "area_code": [
             "555",
             "556",
@@ -6251,8 +6251,8 @@
             "558",
             "559"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "4",
@@ -6262,14 +6262,14 @@
     },
     {
         "country": "Nepal",
-        "prefix": "977",
+        "country_code": "+977",
         "area_code": [
             "96",
             "97",
             "98"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -6279,19 +6279,19 @@
     },
     {
         "country": "Netherlands",
-        "prefix": "31",
+        "country_code": "+31",
         "area_code": [
             "6 97002-97003"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Netherlands Antilles",
-        "prefix": "599",
+        "country_code": "+599",
         "area_code": [
             "3184",
             "3185",
@@ -6318,8 +6318,8 @@
             "968",
             "969"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -6329,7 +6329,7 @@
     },
     {
         "country": "New Caledonia",
-        "prefix": "687",
+        "country_code": "+687",
         "area_code": [
             "50",
             "51",
@@ -6340,15 +6340,15 @@
             "8",
             "9"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "New Zealand",
-        "prefix": "64",
+        "country_code": "+64",
         "area_code": [
             "20",
             "21",
@@ -6359,8 +6359,8 @@
             "28",
             "29"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "3",
@@ -6370,7 +6370,7 @@
     },
     {
         "country": "Nicaragua",
-        "prefix": "505",
+        "country_code": "+505",
         "area_code": [
             "550",
             "551",
@@ -6459,15 +6459,15 @@
             "898",
             "899"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Niger",
-        "prefix": "227",
+        "country_code": "+227",
         "area_code": [
             "89",
             "90",
@@ -6481,15 +6481,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Nigeria",
-        "prefix": "234",
+        "country_code": "+234",
         "area_code": [
             "705",
             "706",
@@ -6511,8 +6511,8 @@
             "817",
             "818"
         ],
-        "prefix_internacional": "009",
-        "prefix_nacional": "0",
+        "international_prefix": "009",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -6522,7 +6522,7 @@
     },
     {
         "country": "Northern Mariana Islands",
-        "prefix": "1 (670)",
+        "country_code": "+1 (670)",
         "area_code": [
             "285",
             "286",
@@ -6532,20 +6532,20 @@
             "788",
             "789"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Norway",
-        "prefix": "47",
+        "country_code": "+47",
         "area_code": [
             "4 58-59, 9"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "5",
@@ -6555,10 +6555,10 @@
     },
     {
         "country": "Oman",
-        "prefix": "968",
+        "country_code": "+968",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -6568,7 +6568,7 @@
     },
     {
         "country": "Pakistan",
-        "prefix": "92",
+        "country_code": "+92",
         "area_code": [
             "30",
             "31",
@@ -6578,8 +6578,8 @@
             "35",
             "36"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -6589,28 +6589,28 @@
     },
     {
         "country": "Palau",
-        "prefix": "680",
+        "country_code": "+680",
         "area_code": [],
-        "prefix_internacional": "011",
-        "prefix_nacional": null,
+        "international_prefix": "011",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Palestinian Authority",
-        "prefix": "970",
+        "country_code": "+970",
         "area_code": [],
-        "prefix_internacional": "",
-        "prefix_nacional": "",
+        "international_prefix": "",
+        "national_prefix": "",
         "digits": null
     },
     {
         "country": "Panama",
-        "prefix": "507",
+        "country_code": "+507",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "7",
@@ -6620,7 +6620,7 @@
     },
     {
         "country": "Papua New Guinea",
-        "prefix": "675",
+        "country_code": "+675",
         "area_code": [
             "67",
             "68",
@@ -6630,8 +6630,8 @@
             "72",
             "73"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "4",
@@ -6641,7 +6641,7 @@
     },
     {
         "country": "Paraguay",
-        "prefix": "595",
+        "country_code": "+595",
         "area_code": [
             "95",
             "96",
@@ -6649,8 +6649,8 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
@@ -6660,10 +6660,10 @@
     },
     {
         "country": "Peru",
-        "prefix": "51",
+        "country_code": "+51",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -6673,10 +6673,10 @@
     },
     {
         "country": "Philippines",
-        "prefix": "63",
+        "country_code": "+63",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -6686,7 +6686,7 @@
     },
     {
         "country": "Poland",
-        "prefix": "48",
+        "country_code": "+48",
         "area_code": [
             "50",
             "51",
@@ -6871,8 +6871,8 @@
             "888",
             "889"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -6882,7 +6882,7 @@
     },
     {
         "country": "Portugal",
-        "prefix": "351",
+        "country_code": "+351",
         "area_code": [
             "1691",
             "1692",
@@ -6891,8 +6891,8 @@
             "1892",
             "1893"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "9",
@@ -6902,14 +6902,14 @@
     },
     {
         "country": "Qatar",
-        "prefix": "974",
+        "country_code": "+974",
         "area_code": [
             "500",
             "501",
             "502"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "6",
@@ -6920,7 +6920,7 @@
     },
     {
         "country": "Reunion",
-        "prefix": "262",
+        "country_code": "+262",
         "area_code": [
             "69200",
             "69201",
@@ -6980,15 +6980,15 @@
             "69393",
             "69394"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Romania",
-        "prefix": "40",
+        "country_code": "+40",
         "area_code": [
             "72",
             "73",
@@ -6998,38 +6998,38 @@
             "77",
             "78"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Russia",
-        "prefix": "7",
+        "country_code": "+7",
         "area_code": [],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Rwanda",
-        "prefix": "250",
+        "country_code": "+250",
         "area_code": [
             "72",
             "73"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Saipan",
-        "prefix": "1 (670)",
+        "country_code": "+1 (670)",
         "area_code": [
             "285",
             "286",
@@ -7039,18 +7039,18 @@
             "788",
             "789"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Samoa",
-        "prefix": "685",
+        "country_code": "+685",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "3",
@@ -7060,10 +7060,10 @@
     },
     {
         "country": "San Marino",
-        "prefix": "378",
+        "country_code": "+378",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "6",
@@ -7073,20 +7073,20 @@
     },
     {
         "country": "Sao Tome/Principe",
-        "prefix": "239",
+        "country_code": "+239",
         "area_code": [
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Saudi Arabia",
-        "prefix": "966",
+        "country_code": "+966",
         "area_code": [
             "50",
             "51",
@@ -7097,8 +7097,8 @@
             "58",
             "59"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -7108,22 +7108,22 @@
     },
     {
         "country": "Senegal",
-        "prefix": "221",
+        "country_code": "+221",
         "area_code": [
             "76",
             "77",
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Serbia",
-        "prefix": "381",
+        "country_code": "+381",
         "area_code": [
             "60",
             "61",
@@ -7135,8 +7135,8 @@
             "68",
             "69"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -7146,22 +7146,22 @@
     },
     {
         "country": "Seychelles",
-        "prefix": "248",
+        "country_code": "+248",
         "area_code": [
             "25",
             "26",
             "27",
             "28"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "Sierra Leone",
-        "prefix": "232",
+        "country_code": "+232",
         "area_code": [
             "33",
             "34",
@@ -7172,20 +7172,20 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Singapore",
-        "prefix": "65",
+        "country_code": "+65",
         "area_code": [
             "8-9"
         ],
-        "prefix_internacional": "001, 008",
-        "prefix_nacional": null,
+        "international_prefix": "001, 008",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "8",
@@ -7195,7 +7195,7 @@
     },
     {
         "country": "Sint Maarten",
-        "prefix": "1 (721)",
+        "country_code": "+1 (721)",
         "area_code": [
             "520",
             "521",
@@ -7214,13 +7214,13 @@
             "587",
             "588"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": null
     },
     {
         "country": "Slovakia",
-        "prefix": "421",
+        "country_code": "+421",
         "area_code": [
             "901",
             "902",
@@ -7242,8 +7242,8 @@
             "948",
             "949"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -7253,7 +7253,7 @@
     },
     {
         "country": "Slovenia",
-        "prefix": "386",
+        "country_code": "+386",
         "area_code": [
             "30",
             "31",
@@ -7266,15 +7266,15 @@
             "9817",
             "9818"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Solomon Islands",
-        "prefix": "677",
+        "country_code": "+677",
         "area_code": [
             "750",
             "751",
@@ -7289,15 +7289,15 @@
             "87",
             "88"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "5"
         }
     },
     {
         "country": "South Africa",
-        "prefix": "27",
+        "country_code": "+27",
         "area_code": [
             "603",
             "604",
@@ -7365,23 +7365,23 @@
             "85400",
             "85401"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "South Sudan",
-        "prefix": "211",
+        "country_code": "+211",
         "area_code": [],
-        "prefix_internacional": null,
-        "prefix_nacional": null,
+        "international_prefix": null,
+        "national_prefix": null,
         "digits": null
     },
     {
         "country": "Spain",
-        "prefix": "34",
+        "country_code": "+34",
         "area_code": [
             "6010",
             "6011",
@@ -7543,15 +7543,15 @@
             "7477",
             "7478"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Sri Lanka",
-        "prefix": "94",
+        "country_code": "+94",
         "area_code": [
             "702",
             "703",
@@ -7565,25 +7565,25 @@
             "77",
             "78"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "St Pierre/Miquelon",
-        "prefix": "508",
+        "country_code": "+508",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "6"
         }
     },
     {
         "country": "St. Kitts & Nevis",
-        "prefix": "1 (869)",
+        "country_code": "+1 (869)",
         "area_code": [
             "556",
             "557",
@@ -7606,15 +7606,15 @@
             "765",
             "766"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "St. Lucia",
-        "prefix": "1 (758)",
+        "country_code": "+1 (758)",
         "area_code": [
             "284",
             "285",
@@ -7653,15 +7653,15 @@
             "784",
             "785"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "St. Vincent/Grenadines",
-        "prefix": "1 (784)",
+        "country_code": "+1 (784)",
         "area_code": [
             "430",
             "431",
@@ -7688,15 +7688,15 @@
             "532",
             "533"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Sudan",
-        "prefix": "249",
+        "country_code": "+249",
         "area_code": [
             "11",
             "12",
@@ -7707,15 +7707,15 @@
             "96",
             "97"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Suriname",
-        "prefix": "597",
+        "country_code": "+597",
         "area_code": [
             "6-7",
             "71",
@@ -7733,8 +7733,8 @@
             "88",
             "89"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "6",
@@ -7744,12 +7744,12 @@
     },
     {
         "country": "Swaziland",
-        "prefix": "268",
+        "country_code": "+268",
         "area_code": [
             "6-8"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "between": [
                 "7",
@@ -7759,7 +7759,7 @@
     },
     {
         "country": "Sweden",
-        "prefix": "46",
+        "country_code": "+46",
         "area_code": [
             "518",
             "519",
@@ -7775,8 +7775,8 @@
             "75",
             "76"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -7786,7 +7786,7 @@
     },
     {
         "country": "Switzerland",
-        "prefix": "41",
+        "country_code": "+41",
         "area_code": [
             "74",
             "75",
@@ -7875,8 +7875,8 @@
             "86079978",
             "86079979"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -7886,10 +7886,10 @@
     },
     {
         "country": "Syria",
-        "prefix": "963",
+        "country_code": "+963",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -7899,10 +7899,10 @@
     },
     {
         "country": "Taiwan",
-        "prefix": "886",
+        "country_code": "+886",
         "area_code": [],
-        "prefix_internacional": "002",
-        "prefix_nacional": "0",
+        "international_prefix": "002",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -7912,7 +7912,7 @@
     },
     {
         "country": "Tajikistan",
-        "prefix": "992",
+        "country_code": "+992",
         "area_code": [
             "90",
             "91",
@@ -7924,15 +7924,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Tanzania",
-        "prefix": "255",
+        "country_code": "+255",
         "area_code": [
             "75",
             "76",
@@ -7940,20 +7940,20 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Thailand",
-        "prefix": "66",
+        "country_code": "+66",
         "area_code": [
             "8-9"
         ],
-        "prefix_internacional": "001",
-        "prefix_nacional": "0",
+        "international_prefix": "001",
+        "national_prefix": "0",
         "digits": {
             "numbers": [
                 "8",
@@ -7963,7 +7963,7 @@
     },
     {
         "country": "Togo",
-        "prefix": "228",
+        "country_code": "+228",
         "area_code": [
             "90",
             "91",
@@ -7976,25 +7976,25 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Tokelau",
-        "prefix": "690",
+        "country_code": "+690",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "4"
         }
     },
     {
         "country": "Tonga",
-        "prefix": "676",
+        "country_code": "+676",
         "area_code": [
             "11",
             "12",
@@ -8039,8 +8039,8 @@
             "88",
             "89"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "5",
@@ -8050,7 +8050,7 @@
     },
     {
         "country": "Trinidad & Tobago",
-        "prefix": "1 (868)",
+        "country_code": "+1 (868)",
         "area_code": [
             "285",
             "286",
@@ -8184,51 +8184,51 @@
             "798",
             "799"
         ],
-        "prefix_internacional": "011",
-        "prefix_nacional": "1",
+        "international_prefix": "011",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Tunisia",
-        "prefix": "216",
+        "country_code": "+216",
         "area_code": [
             "2 4-5, 9"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Turkey",
-        "prefix": "90",
+        "country_code": "+90",
         "area_code": [
             "53",
             "54",
             "55"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Turkmenistan",
-        "prefix": "993",
+        "country_code": "+993",
         "area_code": [],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "numbers": "8"
         }
     },
     {
         "country": "Turks and Caicos Islands",
-        "prefix": "1 (649)",
+        "country_code": "+1 (649)",
         "area_code": [
             "231",
             "232",
@@ -8260,18 +8260,18 @@
             "442",
             "443"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "1",
+        "international_prefix": "00",
+        "national_prefix": "1",
         "digits": {
             "numbers": "7"
         }
     },
     {
         "country": "Tuvalu",
-        "prefix": "688",
+        "country_code": "+688",
         "area_code": [],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "5",
@@ -8281,7 +8281,7 @@
     },
     {
         "country": "Uganda",
-        "prefix": "256",
+        "country_code": "+256",
         "area_code": [
             "70",
             "71",
@@ -8292,15 +8292,15 @@
             "78",
             "79"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Ukraine",
-        "prefix": "380",
+        "country_code": "+380",
         "area_code": [
             "66",
             "67",
@@ -8315,21 +8315,21 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "United Arab Emirates",
-        "prefix": "971",
+        "country_code": "+971",
         "area_code": [
             "55",
             "56"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "8",
@@ -8339,7 +8339,7 @@
     },
     {
         "country": "United Kingdom",
-        "prefix": "44",
+        "country_code": "+44",
         "area_code": [
             "7106",
             "7107",
@@ -8868,8 +8868,8 @@
             "79988",
             "79989"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -8879,7 +8879,7 @@
     },
     {
         "country": "Uruguay",
-        "prefix": "598",
+        "country_code": "+598",
         "area_code": [
             "91",
             "92",
@@ -8891,8 +8891,8 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "4",
@@ -8902,7 +8902,7 @@
     },
     {
         "country": "Uzbekistan",
-        "prefix": "998",
+        "country_code": "+998",
         "area_code": [
             "90",
             "91",
@@ -8915,15 +8915,15 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "810",
-        "prefix_nacional": "8",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Vanuatu",
-        "prefix": "678",
+        "country_code": "+678",
         "area_code": [
             "53",
             "54",
@@ -8941,8 +8941,8 @@
             "76",
             "77"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": null,
+        "international_prefix": "00",
+        "national_prefix": null,
         "digits": {
             "numbers": [
                 "5",
@@ -8952,21 +8952,21 @@
     },
     {
         "country": "Venezuela",
-        "prefix": "58",
+        "country_code": "+58",
         "area_code": [
             "414",
             "415",
             "416"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "10"
         }
     },
     {
         "country": "Vietnam",
-        "prefix": "84",
+        "country_code": "+84",
         "area_code": [
             "120",
             "121",
@@ -9000,8 +9000,8 @@
             "996",
             "997"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "7",
@@ -9011,13 +9011,13 @@
     },
     {
         "country": "Yemen",
-        "prefix": "967",
+        "country_code": "+967",
         "area_code": [
             "70",
             "71"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "810",
+        "national_prefix": "8",
         "digits": {
             "between": [
                 "6",
@@ -9027,7 +9027,7 @@
     },
     {
         "country": "Zambia",
-        "prefix": "260",
+        "country_code": "+260",
         "area_code": [
             "94",
             "95",
@@ -9036,21 +9036,21 @@
             "98",
             "99"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "numbers": "9"
         }
     },
     {
         "country": "Zimbabwe",
-        "prefix": "263",
+        "country_code": "+263",
         "area_code": [
             "77",
             "78"
         ],
-        "prefix_internacional": "00",
-        "prefix_nacional": "0",
+        "international_prefix": "00",
+        "national_prefix": "0",
         "digits": {
             "between": [
                 "5",
